@@ -98,13 +98,14 @@
 	function makeFolders(webUrl, listTitle, folderPath, crossSite, done, error) {
 	    var contextWrapper = contextHelper(webUrl, crossSite);
 	    var clientContext = contextWrapper.clientContext;
+	    var web = contextWrapper.web;
 	    var folderNames = folderPath.split('/');
 
 	    if (folderNames.length === 0) {
 	        return;
 	    }
 
-	    var list = clientContext.get_web().get_lists().getByTitle(listTitle);
+	    var list = web.get_lists().getByTitle(listTitle);
 	    var parentFolder = list.get_rootFolder();
 
 	    makeFoldersRecursively(parentFolder, folderNames, done, error);

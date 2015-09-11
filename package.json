@@ -1,6 +1,6 @@
 {
   "name": "sp-make-folders",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create folders recursively in SharePoint list.",
   "main": "index.js",
   "directories": {
