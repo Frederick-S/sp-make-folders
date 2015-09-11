@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="3433ce1d-aa6d-49c9-842f-706802f91505" 
+        solutionId="3433ce1d-aa6d-49c9-842f-706802f91505" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SharePoint_App_SPMakeFolders_Test"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="9640f61c-9fba-48c9-b41d-a39ab9f6f9af" />
+  </features>
+</package>

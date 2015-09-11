@@ -1,0 +1,28 @@
+{
+  "name": "sp-make-folders",
+  "version": "0.0.1",
+  "description": "Create folders recursively in SharePoint list.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frederick-S/sp-make-folders.git"
+  },
+  "keywords": [
+    "SharePoint"
+  ],
+  "author": "Frederick-S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Frederick-S/sp-make-folders/issues"
+  },
+  "homepage": "https://github.com/Frederick-S/sp-make-folders#readme",
+  "dependencies": {
+    "sp-context-helper": "0.0.2"
+  }
+}
