@@ -10,7 +10,7 @@ npm install sp-make-folders --save
 ```js
 var makeFolders = require('sp-make-folders');
 
-var weburl = 'web url';
+var webUrl = 'web url';
 var listTitle = 'list title';
 var folderPath = 'Folder1/Folder2';
 var useAppContextSite = false;
