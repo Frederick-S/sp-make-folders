@@ -1,6 +1,8 @@
 # sp-make-folders
 Create folders recursively in SharePoint list.
 
+Note: the folders created are not visible as list items.
+
 ## Installation
 ```
 npm install sp-make-folders --save
