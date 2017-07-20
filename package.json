@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Frederick-S/sp-make-folders#readme",
   "dependencies": {
-    "sp-context-helper": "0.0.2"
+    "sp-context-helper": "1.0.3"
   }
 }
