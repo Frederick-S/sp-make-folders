@@ -1,4 +1,6 @@
 # sp-make-folders
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frederick-S/sp-make-folders.svg)](https://greenkeeper.io/)
 Create folders recursively in SharePoint list.
 
 Note: the folders created are not visible as list items.
